@@ -70,6 +70,12 @@
     margin-top: 3rem;
 }
 
+.Pranesh{
+    color: #DCCA87;
+    font-family: var(--font-base);
+    font-size: 1.5rem;
+}
+
 @media screen and (min-width: 2000px) {
     .app__footer-headtext {
         font-size: 51px;
